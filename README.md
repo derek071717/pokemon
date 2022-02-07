@@ -19,5 +19,6 @@ Bolt是一款免費將程式碼「可視化」的套件，適合用於「教學�
 - Player
   - 呼叫Horizontal內建移動套件
   - 設定Player之Variables → Speed為5 型態Float
+  - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E8%A7%92%E8%89%B2%E5%BA%A7%E6%A8%99%E7%A7%BB%E5%8B%95.png)
   - ![圖](https://github.com/derek071717/pokemon/blob/main/Player%20move.png)
   - [連結](https://github.com/derek071717/pokemon/blob/main/Player%20move.png)
