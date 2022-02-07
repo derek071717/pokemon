@@ -29,6 +29,11 @@ Bolt是一款免費將程式碼「可視化」的套件，適合用於「教學�
   - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E8%B7%B3%E8%BA%8D%E5%8A%9B%E5%BA%A6.png)
   - 以角色為圓心，向下發射偵測射線 → 偵測圖層是否正確
   - ![圖](https://github.com/derek071717/pokemon/blob/main/Image/%E8%B7%B3%E8%BA%8D%E5%A4%A7%E7%B6%B1.png)
-- Enemy：碰撞偵測
+- Enemy：碰撞與加分
   - 球體套件
   - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E7%90%83%E9%AB%94%E5%A5%97%E4%BB%B6.png)
+  - 球體碰撞偵測
+  - 球體落地次數=1 則為得分分數
+  - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E7%90%83%E9%AB%94%E7%A2%B0%E6%92%9E%E5%81%B5%E6%B8%AC%E8%88%87%E5%8A%A0%E5%88%86.png)
+- GameObject：碰撞框製作
+  - 碰撞套件
