@@ -36,7 +36,7 @@ Bolt是一款免費將程式碼「可視化」的套件，適合用於「教學�
   - 球體落地次數=1 則為得分分數
   - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E7%90%83%E9%AB%94%E7%A2%B0%E6%92%9E%E5%81%B5%E6%B8%AC%E8%88%87%E5%8A%A0%E5%88%86.png)
   - 落地次數達標，則刪除球體
-  - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E7%90%83%E9%AB%94%E7%A2%B0%E6%92%9E%E5%81%B5%E6%B8%AC%E8%88%87%E5%8A%A0%E5%88%86.png)
+  - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E8%90%BD%E5%9C%B0%E6%AC%A1%E6%95%B8%E9%81%94%E6%A8%99%EF%BC%8C%E5%88%AA%E9%99%A4%E7%90%83.png)
 - GameObject：碰撞框製作
   - 碰撞套件
   - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E7%A2%B0%E6%92%9E%E6%A1%86%E5%A5%97%E4%BB%B6.png)
