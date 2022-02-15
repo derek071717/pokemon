@@ -52,3 +52,4 @@ Bolt是一款免費將程式碼「可視化」的套件，適合用於「教學�
   - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E5%8F%96%E5%BE%97%E8%AE%8A%E6%95%B8%E5%8A%A0%E4%B8%80%E5%88%86.png)
 - 開始遊戲介面
   - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E9%96%8B%E5%A7%8B%E9%81%8A%E6%88%B2.png)
+  - ![](https://github.com/derek071717/pokemon/blob/main/Image/%E9%81%8A%E6%88%B2%E7%95%AB%E9%9D%A2.png)
